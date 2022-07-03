@@ -1,43 +1,36 @@
-# This is a large heading
+# Write a few lines about yourself
 
-## This is a smaller heading
+*Favorite Climate*
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I love warm, sunny, Carribbean climate.
 
-- This is
-- an unordered
-- list
+*Where would you like to travel to if you could*
 
-1. This is
-2. an ordered
-3. list
+I would love to travel to 
+-Guadeloupe 
+-Dominica 
+-Haiti 
+-Dominican Republic
 
-Here is `some code` in the middle of a sentence.
+*What are you currently reading*
 
-```
-This is
-a block
-of code
-```
+**Das Café am Rande der Welt**
 
-Here is how you make [a link](https://www.wikipedia.org/).
+*What do you miss from Boston*
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+I miss
+1. The Carribbean people and culture
+2. Diversity in food
+3. Being able to get my seasonings 
+4. BBQ's
+5. The Haitian clubs
+6. BJ's
+7. New York and Company
+8. Good friends
 
 
-## Let's Play with the Syntax -- The second largest heading
 
-*It's Sunday morning*
-**It's Sunday morning**
 
-1. Wake Up
-2. Learnig some more programming
-3. Eat something
-4. Pray
-5. Teaching Haitian Creole and History
+ 
 
-```This is a code``` in the middle of a sentence..
 
